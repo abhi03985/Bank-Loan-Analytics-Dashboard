@@ -1,4 +1,4 @@
-**# 💰 Finance MIS Dashboard | Bank Loan Analytics
+**# 💰 Bank Loan Analytics Dashboard
 
 An interactive **Finance MIS Dashboard** built in **Microsoft Excel** to analyze and monitor loan portfolio performance. The dashboard provides a comprehensive overview of loan applications, funded amounts, repayments, interest rates, and borrower risk metrics through dynamic KPIs, Pivot Tables, and interactive visualizations.
 
